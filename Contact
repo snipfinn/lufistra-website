@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Lufistra Voer Experts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Lufistra logo" class="logo">
+    <h1>Lufistra Voer Experts</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="over-ons.html">Over ons</a>
+      <a href="diensten.html">Diensten</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Neem contact met ons op</h2>
+
+    <p>Heb je een vraag, wil je een afspraak maken of ben je benieuwd wat wij voor jouw bedrijf kunnen betekenen? Neem gerust contact met ons op.</p>
+
+    <section class="contact-info">
+      <p><strong>Email:</strong> info@lufistra.nl</p>
+      <p><strong>Telefoon:</strong> 06 1234 5678</p>
+      <p><strong>Adres:</strong> Boerenweg 12, 1234 AB Platteland</p>
+    </section>
+
+    <img src="images/contact-boerderij.jpg" alt="Boerderij en voerwagen" class="content-image">
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Lufistra Voer Experts</p>
+  </footer>
+</body>
+</html>
