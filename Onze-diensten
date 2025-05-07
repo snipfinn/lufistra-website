@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diensten - Lufistra Voer Experts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Lufistra logo" class="logo">
+    <h1>Lufistra Voer Experts</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="over-ons.html">Over ons</a>
+      <a href="diensten.html">Diensten</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Onze Diensten</h2>
+
+    <section>
+      <h3>Bedrijfsspecifiek Voeradvies</h3>
+      <p>Iedere boerderij is anders. Wij analyseren jouw situatie en bieden een voerplan dat aansluit bij jouw doelen, voervoorraad en diergezondheid.</p>
+    </section>
+
+    <section>
+      <h3>Rantsoenberekeningen</h3>
+      <p>Met moderne tools rekenen wij rantsoenen door voor melkvee, varkens en pluimvee. Resultaat: hogere opbrengst, lagere kosten.</p>
+    </section>
+
+    <section>
+      <h3>Begeleiding op lange termijn</h3>
+      <p>Geen eenmalig advies, maar betrokken ondersteuning door het jaar heen. We denken mee in elke fase van het bedrijf.</p>
+    </section>
+
+    <img src="images/analyse.jpg" alt="Voeranalyse" class="content-image">
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Lufistra Voer Experts</p>
+  </footer>
+</body>
+</html>
