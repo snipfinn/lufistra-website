@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Over ons - Lufistra Voer Experts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Lufistra logo" class="logo">
+    <h1>Lufistra Voer Experts</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="over-ons.html">Over ons</a>
+      <a href="diensten.html">Diensten</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Onze Missie</h2>
+      <p>Bij Lufistra geloven we in een duurzame en rendabele veehouderij. Wij helpen boeren om het maximale uit hun veestapel te halen met slimme en praktische voeradviezen.</p>
+    </section>
+
+    <section>
+      <h2>Wie zijn wij?</h2>
+      <p>Wij zijn een enthousiast team van voerexperts met een agrarische achtergrond. Met kennis van zaken, een nuchtere aanpak en passie voor het boerenleven staan wij naast de veehouder.</p>
+      <img src="images/team.jpg" alt="Ons team op het erf" class="content-image">
+    </section>
+
+    <section>
+      <h2>Onze Visie</h2>
+      <p>Wij geloven dat elke veehouder het verdient om goed en eerlijk advies te krijgen. Geen verkooppraatjes, maar oplossingen op maat – voor nu én voor de toekomst.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Lufistra Voer Experts</p>
+  </footer>
+</body>
+</html>
